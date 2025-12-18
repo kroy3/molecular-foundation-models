@@ -473,10 +473,10 @@ After full training (100 epochs):
 If you use this code or our methods in your research, please cite:
 
 ```bibtex
-@article{yourname2025molecular,
+@article{KRRoy2025molecular,
   title={Cross-Domain Foundation Models for Electrostatics: 
          Pre-training Neural Operators Across Molecular Physics},
-  author={Your Name},
+  author={Kushal Raj Roy},
   journal={APL Computational Physics},
   year={2025},
   note={arXiv preprint arXiv:XXXX.XXXXX}
