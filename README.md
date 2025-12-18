@@ -1,4 +1,4 @@
-# Cross-Domain Foundation Models for Electrostatics
+# GeoShift:Cross-Domain Foundation Models for Electrostatics
 
 <div align="center">
 
